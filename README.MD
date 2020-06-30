@@ -1,4 +1,4 @@
-##AppBeer
+## AppBeer
 
 O AppBeer é um sisteminha que calcula o valor por litro da cerveja para ajudar a escolher a melhor opção custo-benefício na hora de comprar sem complicação.
 
